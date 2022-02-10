@@ -1,0 +1,17 @@
+{
+    "name": "para/vending-machine-test",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "VM\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pavlo Ratushnyi",
+            "email": "pavel.dhq@gmail.com"
+        }
+    ],
+    "require": {}
+}
